@@ -1,0 +1,30 @@
+
+var bleep1 = new Audio("1.wav");
+var bleep2 = new Audio("2.wav");
+var bleep3 = new Audio("3.wav");
+var bleep4 = new Audio("4.wav");
+var bleep5 = new Audio("5.wav");
+var bleep6 = new Audio("6.wav");
+var bleep7 = new Audio("7.2.wav");
+var bleep8 = new Audio("8.wav");
+var bleep9 = new Audio("9.wav");
+var bleep10 = new Audio("10.wav");
+var bleep11 = new Audio('11.wav');
+var bleep12 = new Audio("12.wav");
+var bleep13 = new Audio("13.wav");
+var bleep14 = new Audio('14.wav');
+var bleep15 = new Audio("15.wav");
+var bleep16 = new Audio("16.wav");
+var bleep17 = new Audio("17.wav");
+var bleepb2 = new Audio("b2.wav");
+var bleepb3 = new Audio("b3.wav");
+var bleepb4 = new Audio("b4.wav");
+var bleepb5 = new Audio("b5.wav");
+var bleepb6 = new Audio("b6.wav");
+var bleepb7 = new Audio("b7.wav");
+var bleepb8 = new Audio("b8.wav");
+var bleepb9 = new Audio("b9.wav");
+var bleepb10 = new Audio("b10.wav");
+var bleepb11 = new Audio("b11.wav");
+var bleepb12 = new Audio("bb2.wav");
+

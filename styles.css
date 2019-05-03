@@ -1,0 +1,87 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.piano {
+    display: flex;
+    position: absolute;
+    margin-left: 4px;
+    
+    
+}
+
+.white-key {
+    width: 40px;
+    height: 188px;
+    background-color: #FFF;
+    border-radius: 0 0 6px 6px;
+    margin-left: -4;
+    outline: none;
+    cursor: pointer;
+}
+
+.black-key {
+    position: absolute;
+    width: 24px;
+    height: 120px;
+    background-color: black;
+    border: 3px solid black;
+    border-radius: 0 0 2px 2px;
+    outline: none;
+    cursor: pointer;
+}
+
+.db4 {
+    left: 70px;
+}
+
+.eb4 {
+    left: 147px;
+}
+
+.gb4 {
+    left: 166;
+}
+
+.ab4 {
+    left: 187px;
+}
+
+.bb4 {
+    left: 227px;
+}
+
+.db5 {
+    left: 308px;
+}
+
+.eb5 {
+    left: 347px;
+}
+
+.fg5 {
+  left: 425px
+}
+
+.ga6 {
+  left: 465px;
+}
+
+.abc {
+  left:27px;
+}
+
+.ab6 {
+  left: 505px
+}
+
